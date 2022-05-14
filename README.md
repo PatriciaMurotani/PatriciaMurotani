@@ -1,10 +1,10 @@
 ### Olá, sou a Patricia Murotani
 
-- 🔭 Sou estudante de Análise e Desenvolvimento de Sistemas
-- 🌱 Estudando PHP e C#
+- 🚀 Sou estudante de Análise e Desenvolvimento de Sistemas
+- 📚 Estudando PHP e C#
 - 🧐 Estou em transição de carreira, buscando uma oportunidade na área de programação
 - 📫 Contate me no email: patricia.murotani@gmail.com
-- 😄 Pronomes: ela/dela
+
 
 <div align="center">
   <a href="https://github.com/PatriciaMurotani">
