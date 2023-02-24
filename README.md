@@ -37,5 +37,5 @@
   ![Snake animation](https://github.com/PatriciaMurotani/PatriciaMurotani/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-© 2022 GitHub, Inc.
+© 2023 GitHub, Inc.
 Terms
