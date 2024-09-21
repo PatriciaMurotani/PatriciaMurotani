@@ -1,6 +1,6 @@
 ### Olá, sou a Patricia Murotani
 
-- 🚀 Sou estudante de Análise e Desenvolvimento de Sistemas
+- 🚀 Sou estudante de Engenharia da Computação
 - 📚 Estudando Python
 - 🧐 Estou em transição de carreira, buscando uma oportunidade na área de programação
 - 📫 Contate me no email: patricia.murotani@gmail.com
