@@ -1,6 +1,6 @@
 ### Olá, sou a Patricia Murotani
 
-- 🚀 Sou estudante de Engenharia da Computação
+- 🚀 Sou estudante de Sistemas de Informação
 - 📚 Estudando Python
 - 🧐 Estou em transição de carreira, buscando uma oportunidade na área de programação
 - 📫 Contate me no email: patricia.murotani@gmail.com
@@ -35,5 +35,5 @@
   <a href="https://www.linkedin.com/in/patricia-murotani-1a27581a3/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-© 2023 GitHub, Inc.
+© 2025 GitHub, Inc.
 Terms
