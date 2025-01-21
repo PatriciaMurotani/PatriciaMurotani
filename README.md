@@ -1,4 +1,4 @@
-### Olá, sou a Patricia Murotani
+### Olá, meu nome é Patricia 
 
 - 🚀 Sou estudante de Sistemas de Informação
 - 📚 Estudando Python
